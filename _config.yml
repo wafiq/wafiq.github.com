@@ -1,6 +1,4 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: none
 auto: true
 pygments: true
 var:
@@ -8,11 +6,12 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://wafiq.github.com # or your custom domain name
-title : Learn to Code 2012 Blog
+production_url : http://wafiq.github.com
+title : Code Blog
 
 author :
   name : Wafiq Rodzuan
   email : wafiqrodzuan@gmail.com
   github : wafiq
   twitter : wfxyz
+  tagline : Do věci
