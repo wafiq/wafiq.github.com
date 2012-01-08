@@ -8,11 +8,11 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+production_url : http://wafiq.github.com # or your custom domain name
+title : Learn to Code 2012 Blog
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Wafiq Rodzuan
+  email : wafiqrodzuan@gmail.com
+  github : wafiq
+  twitter : wfxyz
