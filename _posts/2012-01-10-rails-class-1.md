@@ -7,7 +7,7 @@ tags : [ruby]
 
 ## Basic Ruby
 
-Ruby is object-oriented language, written is C. A developer said Ruby is built as improvisation of PHP.
+Ruby is object-oriented language, written in C. A developer said Ruby is built as improvisation of PHP.
 
 **Class** - A category of objects.
 
