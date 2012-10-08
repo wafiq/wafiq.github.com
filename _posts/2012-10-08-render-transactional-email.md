@@ -1,8 +1,16 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
-# How does it work?
+If you have something like this in `routes.rb`
 
-Enter Text in Markdown format.
+    match "emails/:email_file" => "emails#show"
+    
+Then in the emails controller, you can do like so:
+
+    def show
+      render params[:email_file], layout: "mailer"
+    end
+    
+This way, you can view how any transactional email look in the browser. Of course, to really test any HTML email, you need to do the inbox test.
