@@ -1,6 +1,8 @@
 ---
-layout: default
-published: true
+layout: post
+title :  Render Transactional Email in Browser
+categories : [tips]
+tags : [rails]
 ---
 
 If you have something like this in `routes.rb`
