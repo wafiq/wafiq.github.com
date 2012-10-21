@@ -1,7 +1,7 @@
 ---
 layout: post
-title :  Resolution
-categories : [thought]
+title:  Resolution
+categories: [thought]
 ---
 
 This year, I determined to get serious in programming.
