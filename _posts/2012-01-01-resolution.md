@@ -15,17 +15,11 @@ and probably you could do more traveling.
 So, here's my resolution for 2012:
 
 1. Be independent in Ruby, subsequently Ruby on Rails.
-
 2. Deep understanding in JavaScript, HTML5, and CSS3.
-
 3. Learn new programming languages (Python, Objective C)
-
 3. Launch at least three good personal projects.
-
 4. Create first marketable iOS App.
-
 5. Lean body. BMI > 25.
-
 6. Be Money-problem Free (go ahead, BFM, that's a good one).
 
 Well, the last two isn't related to programming. Nevertheless,
