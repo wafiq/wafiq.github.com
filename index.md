@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Blog
+title: Code-block
 header: Learning to Code
 ---
 

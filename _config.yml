@@ -7,7 +7,7 @@ var:
   tags_path : /tags.html
 
 production_url : http://wafiq.github.com/
-title : Codeblock
+title : Code-block
 
 author :
   name : Wafiq Rodzuan
