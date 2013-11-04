@@ -1,17 +1,3 @@
-permalink: none
-auto: true
-pygments: true
-var:
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-
-production_url : http://wafiq.github.com/
-title : Code-block
-
-author :
-  name : Wafiq Rodzuan
-  email : wafiqrodzuan@gmail.com
-  github : wafiq
-  twitter : wfxyz
-  tagline : Do things
+permalink:  pretty
+pygments:   true
+paginate:   5

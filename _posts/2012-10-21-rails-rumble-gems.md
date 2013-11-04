@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  Rails Rumble Gems
 categories: [review]
 ---

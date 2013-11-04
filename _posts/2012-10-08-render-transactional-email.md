@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  Render Transactional Email in Browser
 categories: [tips]
 tags: [rails]
